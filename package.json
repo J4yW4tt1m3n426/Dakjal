@@ -1,0 +1,19 @@
+{
+  "name": "dakjal",
+  "version": "1.0.0",
+  "description": "Bot ini Adalah bot untuk menjaga server",
+  "main": "index.js",
+  "scripts": {
+    "test": "!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J4yW4tt1m3n426/Dakjal.git"
+  },
+  "author": "Jay Wattimena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J4yW4tt1m3n426/Dakjal/issues"
+  },
+  "homepage": "https://github.com/J4yW4tt1m3n426/Dakjal#readme"
+}
